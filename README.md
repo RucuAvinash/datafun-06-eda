@@ -1,3 +1,9 @@
+Execution - 
+
+git pull 
+cd to root folder
+Run the ipynb file (rucu_eda.ipynb)
+
 Global Coffee vs. Tea Preference Analysis
 Project Overview
 
