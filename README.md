@@ -1,8 +1,8 @@
-Execution - 
-
+Execution
+------------------------------------------------------------
 git pull 
-cd to root folder
-Run the ipynb file (rucu_eda.ipynb)
+cd to root folder - cd datafun-06-eda
+click play button on Jupyter notebook - rucu_eda.ipynb
 
 ROJECT OVERVIEW: Global Coffee vs. Tea Preference Analysis
 ------------------------------------------------------------
