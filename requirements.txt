@@ -338,6 +338,15 @@ seaborn
 # Rate limiting
 # slowapi
 
+# ======================================================
+# DATA PROCESSING & ANALYSIS
+# ======================================================
+
+# Fundamental data manipulation and analysis tools
+numpy
+pandas
+pyarrow
+
 # ASGI server to run FastAPI applications (10-20 MB)
 # uvicorn   
 
