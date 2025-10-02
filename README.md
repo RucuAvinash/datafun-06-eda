@@ -13,3 +13,10 @@ different countries and geographical regions.
 DATA SOURCE AND STRUCTURE
 -------------------------
 The data used for this analysis is stored in the file: global_beverage_survey.csv.
+
+Dependencies
+------------------------------------------------------------
+1.  pandas 
+2.  matplotlib
+3.  pyarrow
+4.  seaborn
