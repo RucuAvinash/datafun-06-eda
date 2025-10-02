@@ -4,7 +4,7 @@ Execution
 2. cd to root folder - cd datafun-06-eda
 3. click play button on Jupyter notebook - rucu_eda.ipynb
 
-ROJECT OVERVIEW: Global Coffee vs. Tea Preference Analysis
+PROJECT OVERVIEW: Global Coffee vs. Tea Preference Analysis
 ------------------------------------------------------------
 This project is an Exploratory Data Analysis (EDA) of global beverage consumption
 patterns, focusing on the cultural divide between coffee and tea drinkers across
